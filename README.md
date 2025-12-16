@@ -25,4 +25,4 @@ This project contains an interactive **Excel dashboard** to analyze Babycare pro
 
 ## Dashboard :
 
-![Image_url](https://github.com/ShanujaSaliya/BabyCareProductAnalysis_Using_Excel/blob/34471f00a405d7a698187ee96925718a1a7c8bca/Dashboard_babyCare.png)
+![Image_url](Image.png)
